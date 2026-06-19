@@ -4,10 +4,10 @@
 This project proposes a novel mathematical framework for analyzing and modeling digital logic gates through quiver representation theory. While standard neural networks rely on approximations and training algorithms, this approach assigns real vector spaces to vertices and linear transformations with scalar values to arrows. The result is a deterministic system that calculates logical operations mathematically, eliminating the need for probabilistic learning and ensuring complete logical correctness.
 
 ## Key Features
-* Algebraic Modeling: Provides exact mathematical representations for all seven basic binary logic gates: AND, OR, NOT, NAND, NOR, XOR, and XNOR.  
-* Quiver Architectures: Utilizes single-layer quiver structures for linearly separable gates and two-layer models for non-linearly separable gates like XOR and XNOR.  
-* Sensitivity Analysis: Introduces a novel method to establish exact bias intervals, proving that every gate possesses a non-empty bias interval with a precise width of exactly 1.  
-* Absolute Precision: Achieves full logical equivalence with standard Boolean truth tables across all combinations of binary inputs.
+* *Algebraic Modeling:* Provides exact mathematical representations for all seven basic binary logic gates: AND, OR, NOT, NAND, NOR, XOR, and XNOR.  
+* *Quiver Architectures:* Utilizes single-layer quiver structures for linearly separable gates and two-layer models for non-linearly separable gates like XOR and XNOR.  
+* *Sensitivity Analysis:* Introduces a novel method to establish exact bias intervals, proving that every gate possesses a non-empty bias interval with a precise width of exactly 1.  
+* *Absolute Precision:* Achieves full logical equivalence with standard Boolean truth tables across all combinations of binary inputs.
 
 ## Mathematical Frameworks & Tools
 * Quiver Representation Theory
